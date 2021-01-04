@@ -1,2 +1,6 @@
 1234
+<<<<<<< HEAD
 DINOSAURIO
+=======
+AVESTRUZ
+>>>>>>> b623815d83f0d7a0313a85ad2f99514065e4a8f0
